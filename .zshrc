@@ -69,6 +69,8 @@ source $ZSH/oh-my-zsh.sh
 autoload -U promptinit; promptinit
 prompt pure
 
+alias makecatalogs="makecatalogs /Volumes/apps"
+
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
