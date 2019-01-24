@@ -12,3 +12,8 @@
 # hyper
 [hyper](https://hyper.is) \
 [hyper-snazzy theme](https://github.com/sindresorhus/hyper-snazzy)
+
+# vim
+
+[pathogen](https://github.com/tpope/vim-pathogen)
+[vim-markdown](https://github.com/gabrielelana/vim-markdown)
